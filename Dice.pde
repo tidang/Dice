@@ -26,10 +26,10 @@ void draw()
 }
 void mousePressed()
 {
-    
+     
     redraw();
-    
-    t = 0 / t;
+     t = 0;
+  
    
 }
 class Die
